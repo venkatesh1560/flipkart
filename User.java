@@ -1,3 +1,3 @@
 Hi
 
-how r u
+bye
